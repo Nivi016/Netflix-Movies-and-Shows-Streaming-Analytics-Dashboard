@@ -5,7 +5,7 @@ The dataset used in this project contains information about Netflix's diverse co
                                      Objectives
       
 * Analyze the distribution of Netflix content across different categories such as type (Movie or TV Show), release year, and ratings.
-* Identify trends in Netflix content production, such as how the duration of movies varies or how the number of TV shows has evolved over time.
+* Identify trends in Netflix content production, including variations in movie durations and the evolution of TV show releases over time.
 * Provide insights into how Netflix's content is distributed geographically.
 * Identify any gaps or interesting patterns, such as underrepresented countries or genres.
 
@@ -32,6 +32,7 @@ Data Visualization:
 
                                      Dashboard & Report
 Design an interactive dashboard where users can filter and explore data by content type, country, year, or genre.
+
 <img width="613" alt="dashboard" src="https://github.com/user-attachments/assets/1f353b8b-a263-40f8-a898-e25dd72394ca">
 
                                      Outcomes
